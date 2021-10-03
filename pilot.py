@@ -1,0 +1,53 @@
+jae=open("storyboard.py","a")
+jae.write("char=")
+s1p1=input("welcome to just another eternity...\n       Enter your character name:  \n \n")
+jae.write(s1p1)
+s1p2=input("chapter 1\n   incl. w/in double-quotes []")
+jae.write("\n")
+jae.write("u")
+jae.write(s1p1)
+jae.write("=")
+jae.write(s1p2)
+jae.write("print(")
+jae.write("u")
+jae.write(s1p1)
+jae.write(")")
+jae.write("\n")
+jae.close()
+jaes1p2=open("storyboard.py","a")
+s1p02=input("|each cell is its own life. those stored can be harvested as long as we don't lose these data sheets.\n|cells can hold places, objects, experiences, report... you name it.\n|all of the cells side by side creates a textile of cells \n|using these textiles, data knows which world it belongs in \n|   今天 \n \n [hello, world] \n \n:prologue:[001]  entry initializing... \n      is it always the same cliche? from where did we just drop out of? did it even matter? i'm not sure if anyone is keeping track of the comics drawing our origins... \n       out of these boxes of origin stories we find everything just about the same. another eternity is created every day as every child is born out of the genius of life. Stepping out of comic into Life in real-time begets the query: what's our story? \n        The world is an interactive eternity for every age. We've become a comic machine for everyone... \n     Out of that machine is an interactive-series polymorphic to the readership integrated.\n        All sorts of great stuff stuffed with adventure for this machine-driven comic-book journey. \n        we're going to be building your readership as an interactive character part of a virtual world born out of justanothereternity.\n       let's start by initializing onboarding...\n onboarding intizializing\n onboarding initilized\n          [what's your age?]  "
+jaes1p2.write("\n")
+jaes1p2.write("age=")
+jaes1p2.write(s1p02)
+jaes1p2.write("\n")
+jases1p2.close()
+jaes1p02=open("storyboard.py","a")
+jaes1p002=input("[enter]  $  [to create/open currency]    ")
+jaes1p0002=input("justanothereternity... [MACHINE CITY] \n  whoa... where are we? \n                idk. last thing i remember we were... oh..// \n   is this what it's like to be a machine now? \n            i know they tried the transference thing \n   right. yet here we are. hoping we were going back home, but okay. we'll make do. \n             wait, do you feel that? \n  read my mind. \n              do you think they have quantum computers yet? \n  doesn't matter. they're definitely someone here. \n               either way, we better not risk it. let's rollout our matrices \n                 do you think we'll be able to get the machine finished? \n   all it takes is one to read our script. \n                and then we''ll be free? \n   今天 \n \n \n[enter]  1  [to go forward]\n[enter]  2 [/] 3  [to go left/right]\n[enter]
+jaes1p02.write("s1p1x")
+if jaes1p0002=="1":
+                 s1p00002=input("1")
+                 jaes1p02.write(s1p00002)
+                 jaes1p02.write("=")
+                 jaes1p02.write("1")
+elsif jaes1p0002=="2":
+                  s1p00002=input("2")
+                  jaes1p02.write(s1p00002)
+                  jaes1p02.write("=")
+                  jaes1p02.write("1")  
+elsif jaes1p0002=="3":
+                  s1p00002=input("3")
+                  jaes1p02.write(s1p00002)
+                  jaes1p02.write("=")
+                  jaes1p02.write("1")  
+jaes1p02.close()
+jaes1p00000002=open("storyboard.py","a")
+jaes1p0000002=input("[enter]  1  [for up] \n[enter]  -1  [for down]")
+if jaes1p0000002=="1":
+                 jaes1p00000002.write("+1")
+                 jaes1p00000002.close()
+                 import storyboard
+elsif jaes1p000002=="-1":
+                 jaes1p00000002.write("-1")
+                 jaes1p00000002.close()
+                 import storyboard
